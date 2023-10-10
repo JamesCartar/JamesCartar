@@ -22,6 +22,6 @@ I'm a passionate developer with a love for creating impactful solutions. Welcome
 - 🌐 Feel free to explore the live demos of some of my projects
 
 ## Let's Connect
-- 📫 You can reach me via email at heinhtet.arjun@gmail.com
+- 📫 You can reach me via email at arjunyadav.hash@gmail.com
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hein-82-htet/)
 - 🌐 Visit my [portfolio](https://hh-portfolio.vercel.app/) website to learn more about my work
